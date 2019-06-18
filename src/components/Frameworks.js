@@ -65,16 +65,16 @@ export default class extends Component {
               <div className="logos-frame">
                 <div className="logos-slider">
                   <div className="logos-wrapper">
-                    <img src="img/react_logo.svg" alt="" />
+                    <img src="img/react_logo.svg" alt="React logo" />
                   </div>
                   <div className="logos-wrapper">
-                    <img src="img/angular-logo.svg" alt="" />
+                    <img src="img/angular-logo.svg" alt="Angular logo" />
                   </div>
                   <div className="logos-wrapper">
-                    <img src="img/vue-logo.svg" alt="" />
+                    <img src="img/vue-logo.svg" alt="Vue logo" />
                   </div>
                   <div className="logos-wrapper">
-                    <img src="img/react_logo.svg" alt="" />
+                    <img src="img/react_logo.svg" alt="React logo" />
                   </div>
                 </div>
               </div>

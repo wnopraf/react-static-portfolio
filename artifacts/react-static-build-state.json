@@ -1,0 +1,61 @@
+{
+  "entry": "/Users/SuperMac/node_proyects/port-folio/src/index.js",
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "plugins": [
+    [
+      "/Users/SuperMac/node_proyects/port-folio/node_modules/react-static-plugin-source-filesystem/node.api.js",
+      {
+        "location": "/Users/SuperMac/node_proyects/port-folio/src/pages"
+      }
+    ],
+    "/Users/SuperMac/node_proyects/port-folio/node_modules/react-static-plugin-reach-router/browser.api.js",
+    "/Users/SuperMac/node_proyects/port-folio/node_modules/react-static-plugin-sitemap/dist/node.api.js",
+    "/Users/SuperMac/node_proyects/port-folio"
+  ],
+  "paths": {
+    "ROOT": "/Users/SuperMac/node_proyects/port-folio",
+    "SRC": "/Users/SuperMac/node_proyects/port-folio/src",
+    "DIST": "/Users/SuperMac/node_proyects/port-folio/dist",
+    "ASSETS": "/Users/SuperMac/node_proyects/port-folio/dist",
+    "PLUGINS": "/Users/SuperMac/node_proyects/port-folio/plugins",
+    "TEMP": "/Users/SuperMac/node_proyects/port-folio/tmp",
+    "ARTIFACTS": "/Users/SuperMac/node_proyects/port-folio/artifacts",
+    "PUBLIC": "/Users/SuperMac/node_proyects/port-folio/public",
+    "NODE_MODULES": "/Users/SuperMac/node_proyects/port-folio/node_modules",
+    "EXCLUDE_MODULES": "/Users/SuperMac/node_proyects/port-folio/node_modules",
+    "PACKAGE": "/Users/SuperMac/node_proyects/port-folio/package.json",
+    "HTML_TEMPLATE": "/Users/SuperMac/node_proyects/port-folio/dist/index.html",
+    "STATIC_DATA": "/Users/SuperMac/node_proyects/port-folio/dist/staticData"
+  },
+  "devServer": {
+    "host": "http://localhost",
+    "port": 3000
+  },
+  "babelExcludes": [],
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
