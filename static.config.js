@@ -27,7 +27,7 @@ export default {
           name="description"
           content="Website of proffesional web developer Rafael Prieto"
         />
-        <title>Rafael Prieto web developer</title>
+        <title>Web developer | Rafael Prieto</title>
         <link
           href="https://fonts.googleapis.com/css?family=Montserrat:400,800|Open+Sans:400,700,800&display=swap"
           rel="stylesheet"
