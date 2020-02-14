@@ -53,7 +53,7 @@ export default class extends Component {
   render() {
     return (
       <div className="frameworks">
-        <h1>Expertise in latest frontends js frameworks</h1>
+        <h1>Expertise in latest frontend js frameworks</h1>
         <div className="frameworks__wrapper">
           <div className="frameworks__box">
             <div className="letters-box">
